@@ -1,4 +1,4 @@
-# Personalized VSCode Extensions
+# QuickStart Extensions
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/vscode-ext-customize)
 [![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/vscode-ext-customize/badge)](https://www.codefactor.io/repository/github/gvatsal60/vscode-ext-customize)
@@ -6,7 +6,6 @@
 ![GitHub forks](https://img.shields.io/github/forks/gvatsal60/vscode-ext-customize)
 ![GitHub stars](https://img.shields.io/github/stars/gvatsal60/vscode-ext-customize)
 
-Welcome to the **Personalized VSCode Extensions** repository!
 This collection contains extensions that enhance your
 Visual Studio Code environment, tailored to meet your specific workflow and coding preferences.
 
@@ -42,6 +41,18 @@ Visual Studio Code environment, tailored to meet your specific workflow and codi
 
 - **[GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)**
   AI chat features powered by Copilot
+
+- **[GitHub Pull Requests](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)**
+  Pull Request and Issue Provider for GitHub
+
+- **[IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)**
+  AI-assisted development
+
+- **[Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)**
+  Hosts a local server in your workspace for you to preview your webpages on.
+
+- **[Open Folder Context Menus for VS Code](https://marketplace.visualstudio.com/items?itemName=chrisdias.vscode-opennewinstance)**
+  Quickly open a new instance of VS Code from the Explorer
 
 *More extensions are being developed and will be added over time.*
 

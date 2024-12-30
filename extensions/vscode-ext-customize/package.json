@@ -6,8 +6,8 @@
   "categories": [
     "Extension Packs"
   ],
-  "description": "A curated set of personalized VSCode extensions designed to optimize and streamline your workflow, tailored to fit your coding style and preferences.",
-  "displayName": "Personalized VSCode Extensions",
+  "description": "The essential VSCode extensions to supercharge your development from the get-go.",
+  "displayName": "QuickStart Extensions",
   "engines": {
     "vscode": "^1.83.1"
   },
@@ -33,21 +33,22 @@
     "color": "#ffffff",
     "theme": "dark"
   },
-  "homepage": "https://github.com/gvatsal60/vscode-ext-customize",
-  "icon": "icon/icon.jpg",
+  "homepage": "https://github.com/gvatsal60/vscode-ext-customize/extensions/vscode-ext-customize",
+  "icon": "icon/icon.png",
   "keywords": [
     "gvatsal60",
     "extensionPack",
     "extension-pack",
     "Extension Pack",
-    "personalized"
+    "personalized",
+    "QuickStart"
   ],
   "license": "Apache-2.0",
-  "name": "vscode-ext-customize",
+  "name": "quickstart-extensions",
   "publisher": "gvatsal60",
   "repository": {
     "type": "git",
     "url": "https://github.com/gvatsal60/vscode-ext-customize"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
