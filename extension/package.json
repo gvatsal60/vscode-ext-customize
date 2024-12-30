@@ -1,37 +1,16 @@
 {
-  "name": "vscode-ext-customize",
-  "displayName": "Personalized VSCode Extensions",
-  "description": "A curated set of personalized VSCode extensions designed to optimize and streamline your workflow, tailored to fit your coding style and preferences.",
-  "version": "0.0.1",
-  "publisher": "gvatsal60",
-  "license": "Apache-2.0",
-  "engines": {
-    "vscode": "^1.83.1"
-  },
   "author": {
     "name": "Vatsal Gupta",
     "url": "https://t.me/gvatsal60"
   },
-  "icon": "icon/icon.jpg",
-  "galleryBanner": {
-    "color": "#ffffff",
-    "theme": "dark"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gvatsal60/vscode-ext-customize"
-  },
-  "homepage": "https://github.com/gvatsal60/vscode-ext-customize",
   "categories": [
     "Extension Packs"
   ],
-  "keywords": [
-    "gvatsal60",
-    "extensionPack",
-    "extension-pack",
-    "Extension Pack",
-    "personalized"
-  ],
+  "description": "A curated set of personalized VSCode extensions designed to optimize and streamline your workflow, tailored to fit your coding style and preferences.",
+  "displayName": "Personalized VSCode Extensions",
+  "engines": {
+    "vscode": "^1.83.1"
+  },
   "extensionPack": [
     "chrisdias.vscode-opennewinstance",
     "github.codespaces",
@@ -49,5 +28,26 @@
     "ms-vscode.remote-repositories",
     "visualstudioexptteam.vscodeintellicode",
     "visualstudioexptteam.vscodeintellicode-completions"
-  ]
+  ],
+  "galleryBanner": {
+    "color": "#ffffff",
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/gvatsal60/vscode-ext-customize",
+  "icon": "icon/icon.jpg",
+  "keywords": [
+    "gvatsal60",
+    "extensionPack",
+    "extension-pack",
+    "Extension Pack",
+    "personalized"
+  ],
+  "license": "Apache-2.0",
+  "name": "vscode-ext-customize",
+  "publisher": "gvatsal60",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gvatsal60/vscode-ext-customize"
+  },
+  "version": "0.0.1"
 }
