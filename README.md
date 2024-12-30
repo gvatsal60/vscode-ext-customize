@@ -1,49 +1,50 @@
-# Project Template
+# VsCode-Ext-Customize
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/project-template)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/project-template/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/project-template/HEAD)
-[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/project-template/badge)](https://www.codefactor.io/repository/github/gvatsal60/project-template)
-![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/project-template)
-![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/project-template)
-![GitHub forks](https://img.shields.io/github/forks/gvatsal60/project-template)
-![GitHub stars](https://img.shields.io/github/stars/gvatsal60/project-template)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://img.shields.io/github/license/gvatsal60/vscode-ext-customize)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/gvatsal60/vscode-ext-customize/master.svg)](https://results.pre-commit.ci/latest/github/gvatsal60/vscode-ext-customize/HEAD)
+[![CodeFactor](https://www.codefactor.io/repository/github/gvatsal60/vscode-ext-customize/badge)](https://www.codefactor.io/repository/github/gvatsal60/vscode-ext-customize)
+![GitHub pull-requests](https://img.shields.io/github/issues-pr/gvatsal60/vscode-ext-customize)
+![GitHub Issues](https://img.shields.io/github/issues/gvatsal60/vscode-ext-customize)
+![GitHub forks](https://img.shields.io/github/forks/gvatsal60/vscode-ext-customize)
+![GitHub stars](https://img.shields.io/github/stars/gvatsal60/vscode-ext-customize)
 
-This repository serves as a foundational template for new projects,
-equipped with essential tools for maintaining code quality and documentation consistency.
-It includes:
+Welcome to the **Personalized VSCode Extensions** repository!
+This collection contains custom-built extensions that enhance your
+Visual Studio Code environment, tailored to meet your specific workflow and coding preferences.
 
-1. README.md
-2. LICENSE
-3. .gitignore
-4. CODE_OF_CONDUCT.md
-5. CONTRIBUTING.md
-6. FUNDING.yml
-7. CHANGELOG.md
+## Features
+
+- **Tailored Experience:** Extensions designed to fit your unique coding style.
+- **Improved Productivity:** Tools that streamline repetitive tasks and automate workflows.
+- **Customization:** A flexible set of options to adjust your editor to how you work best.
+- **Community Contributions:** Open to feedback, feature requests, and contributions from other developers.
+
+## Extensions Included
+
+- **[Extension 1 Name]**
+  A short description of the first extension's functionality.
+
+- **[Extension 2 Name]**
+  A short description of the second extension's functionality.
+
+- **[Extension 3 Name]**
+  A short description of the third extension's functionality.
+
+*More extensions are being developed and will be added over time.*
 
 ## Installation
 
-To install Project Template, follow these steps:
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/gvatsal60/project-template.git
-   cd project-template
-   ```
-
-2. **Customize According to Your Project:**
-   * Replace `[Project Name]`
-   * Update `[contact email]`
-   * Follow `[coding style guide]`
+To use these extensions, follow these steps:
+<!-- TODO -->
 
 ## Contributing
 
 Contributions are welcome! Please read our
-[Contribution Guidelines](https://github.com/gvatsal60/project-template/blob/HEAD/CONTRIBUTING.md)
+[Contribution Guidelines](https://github.com/gvatsal60/vscode-ext-customize/blob/HEAD/CONTRIBUTING.md)
 before submitting pull requests.
 
 ## License
 
 This project is licensed under the Apache License 2.0 License -
-see the [LICENSE](https://github.com/gvatsal60/project-template/blob/HEAD/LICENSE)
+see the [LICENSE](https://github.com/gvatsal60/vscode-ext-customize/blob/HEAD/LICENSE)
 file for details.
