@@ -16,7 +16,10 @@ Visual Studio Code environment, tailored to meet your specific workflow and codi
 
 To use these extensions, follow these steps:
 
-Just search on VsCode Extension Marketplace: **gvatsal60**
+1. Open **Visual Studio Code**.
+2. Go to the **Extensions Marketplace** by clicking on the Extensions icon in the Activity Bar on the side of the window.
+3. In the search bar, type `gvatsal60`.
+4. Browse the available extensions and click **Install** to add them to your VSCode setup.
 
 ## Contributing
 
