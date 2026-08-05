@@ -74,4 +74,3 @@ fi
 
 # Perform any additional setup tasks here
 npm install -g @vscode/vsce
-
