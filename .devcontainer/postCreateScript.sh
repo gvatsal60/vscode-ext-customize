@@ -19,7 +19,6 @@
 
 # Ensure that the development environment is consistently set up with the necessary tools and settings for a smooth workflow.
 ##########################################################################################
-
 ##########################################################################################
 # License
 ##########################################################################################
@@ -75,3 +74,4 @@ fi
 
 # Perform any additional setup tasks here
 npm install -g @vscode/vsce
+
